@@ -1,7 +1,7 @@
 ---
 name: create-scenarios
 description: Generate functional test scenarios from domain knowledge using 6 thinking lenses
-disable-model-invocation: true
+user-invocable: true
 argument-hint: [feature-name or blank for full suite]
 ---
 
